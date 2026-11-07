@@ -1,0 +1,9 @@
+# 本地生成物（可由 data/ 与 scripts/ 重建）
+/catalog/
+/work/
+/dist/
+/release/
+
+# 手动打包的旧产物
+*.7z
+*.zip
